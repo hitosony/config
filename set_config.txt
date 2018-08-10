@@ -1,0 +1,1 @@
+sudo a2dissite 000-default && sudo a2ensite conf && sudo service apache2 restart
